@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/type.ts","./src/utils.ts","./src/config/env.ts","./src/config/google.ts","./src/controller/errorhandler.ts","./src/controller/v1/processevent.ts","./src/controller/v1/tools.ts","./src/middleware/authenticate.ts","./src/models/errormodel.ts","./src/models/responsemodel.ts","./src/services/email.ts"],"version":"6.0.3"}
