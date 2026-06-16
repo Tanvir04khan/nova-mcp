@@ -2,7 +2,7 @@ import { env } from "./config/env";
 
 export const getOrigin = () => {
   if (env.ENV === "production") {
-    return "https://novaai.app.api";
+    return env.ORIGIN;
   }
   return "http://localhost:3000";
 };
